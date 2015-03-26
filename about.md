@@ -1,6 +1,6 @@
 ---
-layout: default
-title: About Vinit Kumar
+layout: page
+title: About me 
 ---
 
-Your introduction here
+This is a static page. It could be an 'about page' if you'd like.
